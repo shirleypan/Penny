@@ -1,0 +1,5 @@
+{
+  "name": "Zhangle AI Web",
+  "description": "A high-fidelity web replica of the Zhangle Fortune AI app, featuring simulated real-time stock quotes, interactive charts, watchlist management, and an intelligent AI financial assistant powered by Gemini.",
+  "requestFramePermissions": []
+}
